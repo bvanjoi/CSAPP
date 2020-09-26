@@ -42,7 +42,7 @@ void test_show_bytes(int val) {
 }
 
 int main() {
-    test_show_bytes(12345);
+    test_show_bytes(0x12345678);
     // the output indicate the byte ordering of your computer.
     return 0;
 }
