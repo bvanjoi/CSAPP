@@ -1,0 +1,7 @@
+# 2.12
+
+A. `x & 0xFF`
+
+B. `(x&0xFF) | ~(x&0xFFFFFF00)`, and equals `x ^ ~0xFF`
+
+C. `x | 0xFF`
