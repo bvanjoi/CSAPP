@@ -1,0 +1,10 @@
+# 3.8
+
+| Instruction                   | Destination | Value |
+|      -                        |   -         |   -   |
+| `addq %rcx, (%rax)`           | 0x100       | 0x100 |
+| `subq %rdx, 8(%rax)`          | 0x108       | 0xA8  |
+| `imulq $16, (%rax, %rdx, 8)`  | 0x118       | 272   |
+| `incq 16(%rax)`               | 0x110       | 0x14  |
+| `decq %rcx`                   | %rcx        | 0x0   |
+| `subq %rdx, %rax`             | %rax        | 0xFD  |

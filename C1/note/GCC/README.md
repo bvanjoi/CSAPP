@@ -20,6 +20,7 @@ option list;
 -S: translate .c to .s
 -wall: show warnings
 -c: do not linking, and only compiler
+-Og: level of optimization
 ```
 
 ## instance

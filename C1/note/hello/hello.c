@@ -6,7 +6,7 @@ int main() {
 }
 
 /**
- * hello pargram life:
+ * hello program life:
  *                                                                                          printf.o --|
  *                pre-processor               compiler                      assembler                  |--> linker
  *    hello.c    -------------->   hello.i   ---------->     hello.s      -------------->    hello.o    ------------>   hello

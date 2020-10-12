@@ -1,4 +1,4 @@
-# datalab
+# Data
 
 Before this lab, we need read README carefully.
 
@@ -16,9 +16,9 @@ And we can run `./dlc -e bits.c` to print counts of the number of operators used
 
 ### btest
 
-Then, Testing with btest, which will test our code for correnctness by running millions of test case on each function.
+Then, Testing with btest, which will test our code for correctness by running millions of test case on each function.
 
-```
+```bash
 make btest
 ./btest
 ```
@@ -78,4 +78,4 @@ And ASSUME that machine:
 6. Forbidden to call any functions.
 7. Forbidden to use any form of casting.
 8. Forbidden to use any data type other than int or unsigned.
-6. Forbidden to use any floating point data types, operations, or constant.
+9. Forbidden to use any floating point data types, operations, or constant.
