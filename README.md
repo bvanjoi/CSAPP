@@ -1,5 +1,7 @@
 # CSAPP
 
+> So we beat on, boats against the current, borne back ceaselessly into the past.
+
 ## Notebook, Practices, Homework
 
 notebook about CSAPP, containing notes and solutions.
@@ -16,3 +18,4 @@ notebook about CSAPP, containing notes and solutions.
 |-|
 |[data](./labs/data/README.md)|
 |[bomb](./labs/bomb/README.md)|
+|[attack](./labs/attack/README.md)|

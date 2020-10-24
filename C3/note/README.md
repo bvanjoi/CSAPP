@@ -13,3 +13,8 @@ sections:
 - [Program Encodings](./encodings/README.md)
 - [Data Formats](./formats/README.md)
 - [Operations](./operations/README.md)
+- [Procedures](./procedures/README.md)
+- [Array Allocation and access](./array/README.md)
+- [Heterogeneous Data Structure](./heterogeneous/README.md)
+- [Combining Control and Data in Machine-Level Programs](./control/README.md)
+- [Floating-Point Code](./floating-point/README.md)

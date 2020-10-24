@@ -2,7 +2,7 @@
 
 Before this lab, we need read README carefully.
 
-## begin with README
+## Begin with README
 
 In this lab, our goal is to modify *bits.c* so that it passes all the tests in btest. And we can't violating any of the coding guidelines.
 
