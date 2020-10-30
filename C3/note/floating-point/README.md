@@ -12,3 +12,8 @@ Practices:
 - [3.50](../../practice/3.50/README.md)
 - [3.51](../../practice/3.51/README.md)
 - [3.52](../../practice/3.52/README.md)
+- [3.53](../../practice/3.53/README.md)
+- [3.54](../../practice/3.54/README.md)
+- [3.55](../../practice/3.55/README.md)
+- [3.56](../../practice/3.56/README.md)
+- [3.57](../../practice/3.57/README.md)
