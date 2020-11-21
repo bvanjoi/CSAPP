@@ -26,7 +26,7 @@ One of the aim of bomb lab is teach us how to debug c file. So let us learn the 
 - gdb: the GUN debugger, it can trace through a program line by line, examine memory and register, look at both the source code and assembly code, set breakpoints, set memory watch points, and write scripts.
 - objdump: A command-line program for displaying various information about object files on Unix-like os.
 
-## solve
+## solution
 
 ### phase_1
 
