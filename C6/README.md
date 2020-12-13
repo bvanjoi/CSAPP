@@ -1,4 +1,4 @@
-# Chapter5: Optimizing Program Performance
+# Chapter6: The Memory Hierarchy
 
 - [note](./note/README.md)
 - [practice](./practice/README.md)
